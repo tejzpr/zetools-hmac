@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/tejzpr/zcli/v2 v2.4.1-0.20220419172759-49b528836b11
-	github.com/tejzpr/zetools v0.0.7
+	github.com/tejzpr/zetools v1.0.0
 )
 
 require (
